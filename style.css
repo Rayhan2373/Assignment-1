@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+}
+.parent{
+    display: flex;
+    margin: 10px;
+   
+}
+.person-1{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.focused-section{
+    width: 60%;
+    margin-left:30px;
+}
+.focused-section h1{
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.focused-section h1 span{
+    color: orange;
+}
+.btn{
+   color:white;
+   background-color: orangered;
+   padding: 10px 35px;
+   border: none;
+   border-radius: 5px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   font-size: 17px;
+}
+.focused-section p{
+    font-size: 18px;
+}
+.section-2{
+    display: flex;
+}
+.section-2 div{
+    width: 25%;
+    margin: 40px auto;
+
+}
+.section-2 div img{
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.section-2 div h1{
+    text-align: center;
+}
+.section-2 div p{
+    text-align: center;
+    margin: 15px;
+   
+}
+.section-2 div{
+    box-shadow: 5px 5px 10px 5px gray;
+    border-radius: 20px;
+    border-top: 10px;
+} 
+.mission{
+    background-color: paleturquoise;
+}
+.vission{
+    background-color:pink;
+}
+.goals{
+   background-color: lemonchiffon;
+}
+.mvg-heading{
+    text-align: center;
+    font-size: 25px;
+    font-family:Verdana, Tahoma, sans-serif;
+    margin-top: 50px;
+}
+.mvg-heading h1 span{
+    color: orangered;
+}
+.coding-img{
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
+    
+}
+.develop-section{
+    display:flex;
+    background-image: url(./shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin:5px 50px;
+ }
+
+.develop-section div{
+   margin: 50px;
+   width: 50%;
+}
+.develop-section div h1{
+    font-size: 50px;
+}
+.develop-section div p{
+    font-size: 20px;
+}
+.determind-section{
+    display: flex;
+    margin:40px 50px;
+    background-image: url(./shapes/shape-9.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color:pink;
+    border-radius: 50px;
+}
+.determind-section p{
+    font-size: 20px;
+}
+.determind-section div{
+    width: 50%;
+    margin:50px 30px;
+}
+h1{
+    font-size:50px;
+}
+footer h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: serif;
+
+}
+footer p{
+    text-align: center;
+}
+body{
+   background-color: wheat;
+}
+div footer{
+    background-color: whitesmoke;
+    margin: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}

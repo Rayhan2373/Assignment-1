@@ -3,7 +3,7 @@
 }
 .parent{
     display: flex;
-    margin: 10px;
+    margin: 15px;
    
 }
 .person-1{
@@ -17,8 +17,11 @@
     margin-left:30px;
 }
 .focused-section h1{
-    font-size: 50px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-size: 55px;
+    font-family: sans-serif;
+    border-left: 5px solid red;
+    margin: 10px 0;
+
 }
 .focused-section h1 span{
     color: orange;
@@ -85,6 +88,7 @@
     width: 300px;
     height: 400px;
     margin-left: 50px;
+    border-radius: 15px;
     
 }
 .develop-section{
@@ -137,7 +141,7 @@ body{
    background-color: wheat;
 }
 div footer{
-    background-color: whitesmoke;
+    background-color:moccasin;
     margin: 50px;
     margin-bottom: 5px;
     border-radius: 10px;
